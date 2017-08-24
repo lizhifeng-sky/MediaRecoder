@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 Log.e(LOG_TAG, "prepare() failed");
             }
             mRecorder.start();
-            mRecorder.pause();
+//            mRecorder.pause();
         }
 
     }
